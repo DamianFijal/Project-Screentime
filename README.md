@@ -21,3 +21,6 @@ So, why and for how long are you using your smartphones on weekly basis?
 
 I have investigated personal screentime and have found some insightful information. 
 
+I used app called “StayFree” to collect and export data. 
+
+![Stayfree](https://user-images.githubusercontent.com/85994140/136364690-8d385477-31cd-4bf8-ba16-af4f35ac77c6.JPG)
