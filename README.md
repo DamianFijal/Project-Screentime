@@ -5,7 +5,7 @@
 
 Smartphones. 
 	
-	Our way to be connected with outside world. 
+Our way to be connected with outside world. 
 
 First iPhone was released in 2007 and Android smartphone followed a year later. 
 Throughout the years smartphones evolved immensely and the purpose of the phones changed significantly. 
