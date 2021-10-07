@@ -1,9 +1,10 @@
 # Project-Screentime
-Screentime usage on my android phone.
+
 
 ----------------------------------------
 
 Smartphones. 
+	
 	Our way to be connected with outside world. 
 
 First iPhone was released in 2007 and Android smartphone followed a year later. 
