@@ -12,7 +12,10 @@ Something which was used before to communicate with friends and family, mostly t
 There isn’t a single thing which you cannot do on your smartphone. 
 
 Intention of mobile phones was to be in contact with anyone who you want to be in contact with.
+
 Smartphones were invented to take this further. 
+
+----------------------------------------
 
 So, why and for how long are you using your smartphones on weekly basis?
 
