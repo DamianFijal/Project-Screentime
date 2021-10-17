@@ -5,7 +5,7 @@
 
 Smartphones. 
 	
-Our way to be connected with outside world. 
+Our way to be connected with the outside world. 
 
 First iPhone was released in 2007 and Android smartphone followed a year later. 
 Throughout the years smartphones evolved immensely and the purpose of the phones changed significantly. 
@@ -50,4 +50,11 @@ There is clear drop off in usage time in Week 41 for F1 game. In that week I dec
 Yes, I already had the data for this project and could make a decision before ending the experiment. 
 
 ![Screentime usage in hours](https://user-images.githubusercontent.com/85994140/137619689-54414b9a-fcd0-42cf-a904-b647268fc4ab.png)
+
+
+
+Link to chart :
+https://public.flourish.studio/visualisation/7453309/
+
+----------------------------------------
 
