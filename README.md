@@ -36,7 +36,7 @@ In particular, I was amazed by the YouTube and LinkedIn ranks.
 
 	
 
-Link to chart :
+		Link to chart :
 https://public.flourish.studio/visualisation/7452803/
 
 
