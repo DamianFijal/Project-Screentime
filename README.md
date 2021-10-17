@@ -38,4 +38,15 @@ In particular, I was amazed by the YouTube and LinkedIn ranks.
 Link to chart :
 https://public.flourish.studio/visualisation/7452803/
 
+----------------------------------------
+
+I then calculated the time spent in hours on each app in every week the data was collected. 
+
+Clearly, I was spending too much time on F1 game ... 
+Second place is for Instagram - and it is my number one social platform (Sorry Facebook, nothing cool going on your platform ... too many useless adds in my opinion).
+
+There is clear drop off in usage time in Week 41 for F1 game. In that week I decided that I will delete the app and focus on something else. 
+Yes, I already had the data for this project and could make a decision before ending the experiment. 
+
+![Screentime usage in hours](https://user-images.githubusercontent.com/85994140/137619689-54414b9a-fcd0-42cf-a904-b647268fc4ab.png)
 
