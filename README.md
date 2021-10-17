@@ -32,7 +32,8 @@ My data is from Week 36 to Week 41 of calendar year 2021.
 What surprised me was that some of the app which I thought are not used that much, finished in top 10 when I started recording data for this project. 
 In particular, I was amazed by the YouTube and LinkedIn ranks. 
 
-![App rank](https://user-images.githubusercontent.com/85994140/137619068-96353872-fdfe-4cc1-92bf-23029d4341be.jpeg)
+![App rank](https://user-images.githubusercontent.com/85994140/137619740-e92ba57b-54a9-42f4-917d-52ca19ca8c64.png)
+
 
 	
 Link to chart :
