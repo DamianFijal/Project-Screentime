@@ -34,7 +34,7 @@ In particular, I was amazed by the YouTube and LinkedIn ranks.
 
 ![App rank](https://user-images.githubusercontent.com/85994140/137619068-96353872-fdfe-4cc1-92bf-23029d4341be.jpeg)
 
-	(You can check the chart here: https://public.flourish.studio/visualisation/7452803/)
+	You can check the chart here: https://public.flourish.studio/visualisation/7452803/
 
 
 
